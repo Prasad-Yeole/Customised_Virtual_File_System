@@ -7,7 +7,7 @@
 <div align="center">
     <sup>More Info</sup>
     <br />
-  <sup>Copyright (c) 2021 Prasad_Dangare</sup>
+  <sup>Copyright (c) 2021 Prasad_Yeole</sup>
   
   Licensed Under The  [MIT License](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/LICENSE)
   
